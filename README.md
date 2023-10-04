@@ -33,7 +33,7 @@ This repository contains the assignments and coursework for CS50AI, a course foc
 
 ### Week 5: Neural Networks
 - [Traffic](/Week-5/Traffic)
-- 
+
 - ### Week 6: Language
 - [Parser](/Week-6/Parser)
 - [Questions](/Week-6/Questions)
