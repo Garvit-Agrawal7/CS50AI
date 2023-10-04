@@ -50,7 +50,7 @@ Contributions to this repository are welcome! If you have improvements, bug fixe
 ## Resources
 
 - [CS50AI Course Website](https://cs50.harvard.edu/ai/)
-- [CS50AI Syllabus](https://cs50.harvard.edu/ai/2020/weeks/0/ai/#academic-honesty)
+- [CS50AI Syllabus](https://cs50.harvard.edu/ai/2023/weeks/0)
 
 ---
 
