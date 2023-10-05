@@ -13,30 +13,30 @@ This repository contains the assignments and coursework for CS50AI, a course foc
 ## Assignment List
 
 ### Week 0: Search
-- [Degrees](/Week-0/Degrees/)
-- [TicTacToe](/Week-0/TicTacToe/)
+- [Degrees](/Week-0/degrees/)
+- [TicTacToe](/Week-0/tictactoe/)
 
 ### Week 1: Knowledge
-- [Knights](/Week-1/Knights/)
-- [Minesweeper](/Week-1/Minesweeper/)
+- [Knights](/Week-1/knights/)
+- [Minesweeper](/Week-1/minesweeper/)
 
 ### Week 2: Uncertainty
-- [PageRank](/Week-2/PageRank)
-- [Heredity](/Week-2/Heredity)
+- [PageRank](/Week-2/pageRank)
+- [Heredity](/Week-2/heredity)
 
 ### Week 3: Optimisation
-- [Crossword](/Week-3/Crossword)
+- [Crossword](/Week-3/crossword)
 
 ### Week 4: Learning
-- [Shopping](/Week-4/Shopping)
-- [Nim](/Week-4/Nim)
+- [Shopping](/Week-4/shopping)
+- [Nim](/Week-4/nim)
 
 ### Week 5: Neural Networks
-- [Traffic](/Week-5/Traffic)
+- [Traffic](/Week-5/traffic)
 
 - ### Week 6: Language
-- [Parser](/Week-6/Parser)
-- [Questions](/Week-6/Questions)
+- [Parser](/Week-6/parser)
+- [Questions](/Week-6/questions)
 
 ## Contributing
 
