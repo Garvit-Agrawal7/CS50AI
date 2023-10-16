@@ -21,7 +21,7 @@ This repository contains the assignments and coursework for CS50AI, a course foc
 - [Minesweeper](/Week%201/minesweeper/)
 
 ### Week 2: Uncertainty
-- [PageRank](/Week%202/pageRank)
+- [PageRank](/Week%202/pagerank)
 - [Heredity](/Week%202/heredity)
 
 ### Week 3: Optimisation
