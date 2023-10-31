@@ -12,3 +12,4 @@ There are possible uncountable ways to make this code work, but here's my versio
 
 ### Implementing the get_model() function
 - Implemented the function by understanding the code implementations from sr5
+- Altered the values of the kernel, number of filters etc., to get a more accurate and efficient result
