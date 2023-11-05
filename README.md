@@ -36,7 +36,7 @@ This repository contains the assignments and coursework for CS50AI, a course foc
 
 ### Week 6: Language
 - [Parser](/Week%206/parser)
-- [Questions](/Week%206/questions)
+- [Attention](/Week%206/attention)
 
 ## Contributing
 
