@@ -54,6 +54,7 @@ Contributions to this repository are welcome! If you have improvements, bug fixe
 
 ## Certificate
 ![CS50AI](https://certificates.cs50.io/158bc125-9017-4701-84cc-cd80d297bec7.png?size=A4)
+
 ---
 
 Feel free to contribute, report issues, or suggest improvements to this repository. Happy learning and coding!
